@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VatApp</string>
+    <string name="calculate_vat">calculate_vat</string>
+    <string name="round_up_total">round_up_total</string>
+    <string name="select_vat_percenteg">select_vat_percenteg</string>
+    <string name="enter_the_price">enter_the_price</string>
+    <string name="total_amount">Total Amount: %s</string>
+</resources>
